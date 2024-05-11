@@ -1,4 +1,4 @@
-Cart feature counter
+# Cart feature counter
 
 Car feature that adds items to cart with a limiter for free users. Asks user to upgrade to pro if max items are added. Reset button that renders to zero
 
